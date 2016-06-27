@@ -1,0 +1,139 @@
+.cosmo img{
+position:static;
+float:left;
+}
+.cosmolist li{
+	
+font-size:20px;
+			
+}
+body{
+	padding:0;
+}
+
+.serv1, .serv2, .serv3{	
+	display:inline;
+}
+ 
+   .serv1{
+	   margin-right:1%;
+	   margin-left:1%;
+   }
+  
+  
+  .serv3{
+	   margin-right:1%;
+	   margin-left:1%;
+   }
+   
+   .services p{
+	text-align:center;
+	padding:0;
+	margin:0 0 15px;
+	font-size:20px;
+	line-height:20px;
+	font-weight:500;
+				
+}
+
+.services ul{
+	font-size:17px;
+	line-height:30px;
+	font-weight:500;
+			
+}
+
+
+.serv1 h2, .serv2 h2, .serv3 h2{
+	font-size:15px;
+	font-weight:500;
+				
+}
+
+
+.slide p{
+	font-size:20px;
+}
+
+
+.green img{
+   display:block;		   
+   height:600px;
+   }
+
+ .wrap{zoom:1;}
+
+.line{
+padding:1px;
+height:auto;
+	
+}
+
+.services{margin-top:-70px;
+}
+
+.cosmo p{font-size:20px;}
+
+
+footer{
+	margin-bottom:-60px;
+}
+
+.price{
+	
+font-size:18px;}
+
+sub{font-size:15px;
+line-height:17px;
+}
+.cosmetics{
+	
+font-size:16px;}
+
+.advices p{	  
+font-size:15px;
+}
+
+.resalt{border:none;}
+
+
+.contacts{
+	min-height:685px;
+	height: auto !important;
+	height: 685px;	
+}
+
+.form{
+	display:none;
+	
+}
+
+.form2{
+	display:block;;
+	
+}
+
+.form2 p{
+	margin-top:5px;
+	margin-left:20px;
+	
+}
+form{
+margin-left:0;}
+
+.mail, .holder{
+	display:block;
+	width:250px;
+}
+
+.menu li{	
+	width:16%;
+}
+
+.block{
+	display:block;
+	margin-top:30px;
+}
+				
+
+

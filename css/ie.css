@@ -1,0 +1,53 @@
+.cosmo img{
+position:static;
+float:left;
+}
+
+.cosmolist li{	
+	font-size:20px;
+			
+}
+
+.serv1 h2, .serv2 h2, .serv3 h2{
+	font-size:15px;
+}
+
+.slide p{	   
+   font-size:20px;
+	   
+}
+
+.piling{
+	width:100%;
+	
+}
+.price{	
+	font-size:16px;
+}
+
+.services ul{
+	font-size:16px;
+	line-height:25px;
+			
+	}
+
+.block{
+   padding-top:150px;
+}
+
+.form{
+	display:none;
+		
+	}
+
+.form2{
+	display:block;;
+	
+}
+
+textarea{
+		
+height:190px;}
+
+
+
